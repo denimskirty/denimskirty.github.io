@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: denimskirty, Denim Skirt, or dnmskrty
+title: dnmskrty
 subtitle: "we write about books and us"
 email: denimskirty@gmail.com
 name: Denim Skirt
@@ -81,7 +81,7 @@ social:
   - name: Instagram
     icon: instagram
     username: "@denimskirty"
-    url: https://www.instagram.com/e.mo.tion2015/
+    url: https://www.instagram.com/denimskirty/
     desc: Follow me on Instagram
     share: false
 
