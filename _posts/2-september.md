@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Dummy Post 2"
-date:   2015-04-18T14:25:52-05:00
-author: Ben Centra
-categories: Dummy
+title:  "2. The Scorpio Races by Maggie Steifvater"
+date:   2023-09-15T14:25:52-05:00
+author: Denim Skirt
+categories: September
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.
