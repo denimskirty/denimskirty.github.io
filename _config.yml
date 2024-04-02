@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: denimskirty
-subtitle: "welcome to our blog. here is our latest post:"
+subtitle: "welcome to our blog. take a look at our previous posts above. here is the most recent one:"
 email: denimskirty@gmail.com
 name: Denim Skirt
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  A blog where we talk about books (and other piece of media) and ourselves. 
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
