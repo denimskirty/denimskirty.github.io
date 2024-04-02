@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Typography
-permalink: /typography/
+title: About
+permalink: /about/
 main_nav: true
 ---
 
