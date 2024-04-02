@@ -241,33 +241,7 @@ models:
         name: cover
         label: Cover Image
 
-  post2:
-    type: page
-    label: Post
-    folder: _posts2
-    fields:
-      - type: string
-        name: layout
-        label: Page Layout
-        required: true
-      - type: string
-        name: title
-        label: Title
-      - type: date
-        name: date
-        label: Publish Date
-      - type: string
-        name: author
-        label: Author
-      - type: string
-        name: categories
-        label: Categories
-      - type: string
-        name: tags
-        label: Tags
-      - type: image
-        name: cover
-        label: Cover Image
+  
 
 
 
