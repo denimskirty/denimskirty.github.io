@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Dummy Post 3"
-date:   2015-04-18T14:25:52-05:00
-author: Ben Centra
-categories: Dummy
+title:  "I Think Love is Something That Happens to Other People"
+date:   2023-09-20T14:25:52-05:00
+author: Denim Skirt
+categories: September
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.
