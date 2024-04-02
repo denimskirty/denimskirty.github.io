@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 2024
 permalink: /about/
 main_nav: true
 ---
