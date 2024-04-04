@@ -47,7 +47,7 @@ pre code.hljs {
 }
 
 .page-divider {
-	$divider-color: $purple;
+	$divider-color: $light-gray;
   display: block;
   width: 50%;
   margin-left: auto;
@@ -58,8 +58,8 @@ pre code.hljs {
     top: -9px;
     display: block;
     background: $divider-color;
-    width: 2px;
-    height: 2px;
+    width: 18px;
+    height: 18px;
     margin-left: auto;
     margin-right: auto;
     border-radius: 50%;
