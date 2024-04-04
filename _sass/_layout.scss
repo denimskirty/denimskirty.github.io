@@ -224,7 +224,7 @@ pre code.hljs {
 	*	index.html
 	*/
 	.post-list {
-		padding-top: 1em !important;
+		padding-top: 0.5em !important;
 		@extend %default-ul;
 	}
 	.post-meta {
@@ -278,7 +278,7 @@ pre code.hljs {
 	*/
 	.post {
 		ul {
-			margin-bottom: 0.5em;
+			margin-bottom: 1em;
 		}
 		.post-header-container {
 			.scrim {
