@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About us
+title: about us
 permalink: /aboutus/
 main_nav: true
 ---
