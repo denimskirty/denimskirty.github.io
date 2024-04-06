@@ -6,7 +6,7 @@ main_nav: true
 ---
 ![alt text]({{ site.baseurl }}/assets/profile_pic.gif "Profile Picture"){:.profile}
 
-Denimskirty was born in the defunct Instagram page of a high school literacy club under existential threat. Denimskirty is the result of a passion for Canva, Pinterest, and self-indulgent literary critique. A book blog, if you will. “Book” as in other types of media as well and “blog” as in screaming into the void.
+denimskirty was born in the defunct Instagram page of a high school literacy club under existential threat. denimskirty is the result of a passion for Canva, Pinterest, and self-indulgent literary critique. A book blog, if you will. “Book” as in other types of media as well and “blog” as in screaming into the void.
 
 Some facts about denimskirty:
   - Christened by dear friends 
