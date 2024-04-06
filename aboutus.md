@@ -16,7 +16,7 @@ Some facts about denimskirty:
   - Also a luscious bleach blonde shag
   - Employed and nearly employed
   - Soon to be bicoastal
-  - (The dichotomy is crazy)
+  - The dichotomy is crazy
 
 Some facts about this website:
   - Book titles will not be italicized or underlined, sorry
