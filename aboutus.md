@@ -20,6 +20,6 @@ Some facts about denimskirty:
 
 Some facts about this website:
   - Book titles will not be italicized or underlined, sorry
-  - Our instagram is prettier, there are more pictures and colors
+  - Our instagram is/will be prettier, there are more pictures and colors
   - We are aware of the existence of substack
 
