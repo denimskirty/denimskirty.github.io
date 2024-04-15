@@ -8,11 +8,10 @@ main_nav: true
 
 <fieldset>
 
-<form action="script.php" method="POST"><textarea name='msg'></textarea><button type="submit">send</button></form>
+<form action="script.php" method="POST"><textarea name='msg'></textarea><p><input type="submit" value="submit" /></p></form>
 
   
 </fieldset>
-
 
 
 
