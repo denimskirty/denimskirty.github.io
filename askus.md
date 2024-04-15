@@ -14,9 +14,6 @@ main_nav: true
 
     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.</p>
 
-    <p><label for="text_field">Text Field:</label>
-      <input type="text" id="text_field" /></p>
-
     <p><label for="text_area">Text Area:</label>
       <textarea id="text_area"></textarea></p>
 
