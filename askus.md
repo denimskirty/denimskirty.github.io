@@ -10,15 +10,13 @@ main_nav: true
   
 
   <form>
-    <h2>Form Element</h2>
 
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.</p>
-
-    <p><label for="text_area">Text Area:</label>
+    <p><label for="text_area">ask away:</label>
       <textarea id="text_area"></textarea></p>
-
  
-    <p><input type="submit" value="Submit" /></p>
+    <p><input type="submit" value="submit" /></p>
+    
   </form>
+  
 </fieldset>
 
