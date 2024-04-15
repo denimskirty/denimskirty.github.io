@@ -7,9 +7,16 @@ main_nav: true
 
 
 <fieldset>
-  
 
-  <form>
+<form action="script.php" method="POST"><textarea name='msg'></textarea><button type="submit">send</button></form>
+
+  
+</fieldset>
+
+
+
+
+ <form>
 
     <p><label for="text_area">ask away:</label>
       <textarea id="text_area"></textarea></p>
@@ -17,9 +24,6 @@ main_nav: true
     <p><input type="submit" value="submit" /></p>
     
   </form>
-  
-</fieldset>
-
 
 
 
