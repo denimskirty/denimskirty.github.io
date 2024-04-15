@@ -20,16 +20,7 @@ main_nav: true
   
 </fieldset>
 
-{{< php >}}
-if(isset($_POST['submit'])) 
-{
-	$to= "denimskirt@gmail.com"; 
-	$subject= "Subject for your email"; 
-	$msg= $_POST["text_area"]; //textarea value will be send as message here. 
-	$header= "a question!" //For example: From: abc@xyz.com 
-	mail($to,$subject,$msg,$header); 
-}
-{{< /php >}}
+
 
 
 
