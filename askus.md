@@ -20,8 +20,10 @@ main_nav: true
   
 </fieldset>
 
+
+
 if(isset($_POST['submit'])) 
-{ 
+{
 	$to= "denimskirt@gmail.com"; 
 	$subject= "Subject for your email"; 
 	$msg= $_POST["text_area"]; //textarea value will be send as message here. 
