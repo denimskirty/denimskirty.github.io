@@ -1,6 +1,6 @@
 ---
 layout: page
-title: askus
+title: ask us
 permalink: /askus/
 main_nav: true
 ---
