@@ -21,11 +21,6 @@ main_nav: true
 </fieldset>
 
 {{< php >}}
-<?php echo "<p>Hello World</p>"; ?> 
-{{< /php >}}
-
-
-
 if(isset($_POST['submit'])) 
 {
 	$to= "denimskirt@gmail.com"; 
@@ -34,4 +29,9 @@ if(isset($_POST['submit']))
 	$header= "a question!" //For example: From: abc@xyz.com 
 	mail($to,$subject,$msg,$header); 
 }
+{{< /php >}}
+
+
+
+
 
