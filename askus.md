@@ -5,7 +5,7 @@ permalink: /askus/
 main_nav: true
 ---
 
- <h2>broken rn dont use</h2>
+ <h2>advice column but broken rn dont use</h2>
 
 <fieldset>
 
