@@ -1,1 +1,1 @@
-<?php mail('email@domain.com','mail subject',$_POST['msg']);?>
+<?php mail('denimskirty@gmail.com','mail subject',$_POST['msg']);?>
