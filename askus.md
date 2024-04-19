@@ -26,6 +26,12 @@ main_nav: true
   </form>
 
 
+<form name="form1" method="post"> 
+<textarea name="value1"></textarea> 
+<input type="submit" value="submit" name="submit" /> 
+</form> 
+
+
 
 
 
