@@ -26,7 +26,7 @@ main_nav: true
   </form>
 
 
-<form name="form1" method="post"> 
+<form name="form1" method="post1"> 
 <textarea name="value1"></textarea> 
 <input type="submit" value="submit" name="submit" /> 
 </form> 
