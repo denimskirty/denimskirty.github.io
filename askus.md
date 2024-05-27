@@ -18,27 +18,13 @@ main_nav: true
 
     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.</p>
 
-    <p><label for="text_field">Text Field:</label>
-      <input type="text" id="text_field" /></p>
+   
 
     <p><label for="text_area">Text Area:</label>
       <textarea id="text_area"></textarea></p>
 
  
 
-    <p><label for="radio_buttons">Radio Buttons:</label>
-      <label>
-        <input type="radio" class="radio" name="radio_button" value="radio_1" /> Radio 1
-      </label>
-      <label>
-        <input type="radio" class="radio" name="radio_button" value="radio_2" /> Radio 2
-      </label>
-      <label>
-        <input type="radio" class="radio" name="radio_button" value="radio_3" /> Radio 3
-      </label>
-    </p>
-
-   
 
 
     <p><input type="submit" value="Submit" /></p>
