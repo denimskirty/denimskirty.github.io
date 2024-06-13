@@ -5,31 +5,11 @@ permalink: /askus/
 main_nav: true
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;advice column!\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(will not be a google form for long)(ugly)\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anonymous form, ask away:
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd8IvUcvg7pmY2pQpzfmVsLMCGAHuTkWwRVK2f729FxHDsD6w/viewform?embedded=true" width="400" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ask anything to be answered in our advice column!\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(kind of ugly sorry. but this way u can be sure u are anonymous)\
 
-<fieldset>
-  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.</p>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd8IvUcvg7pmY2pQpzfmVsLMCGAHuTkWwRVK2f729FxHDsD6w/viewform?embedded=true" width="500" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-  <form>
-    <h2>Form Element</h2>
-
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.</p>
-
-   
-
-    <p><label for="text_area">Text Area:</label>
-      <textarea id="text_area"></textarea></p>
-
- 
-
-
-
-    <p><input type="submit" value="Submit" /></p>
-  </form>
-</fieldset>
 
 
 
