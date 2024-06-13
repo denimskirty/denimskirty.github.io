@@ -14,7 +14,7 @@ some facts about denimskirty:
   - four hands total
   - has a shiny luxurious black bob
   - also a luscious bleach blonde shag
-  - employed and nearly employed
+  - employed and nearly unemployed
   - soon to be bicoastal
   - (the dichotomy is crazy)
 
