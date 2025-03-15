@@ -16,10 +16,9 @@ some facts about denimskirty:
   - also a luscious bleach blonde shag
   - employed and nearly unemployed
   - soon to be bicoastal
-  - (the dichotomy is crazy)
 
 some facts about this website:
   - book titles will not be italicized or underlined, sorry
-  - our instagram is/will be prettier, there are/will be more pictures and colors
+  - our instagram is prettier, old instagram @studentsforliterature
   - we are aware of the existence of substack
-
+  - used Centrarium theme
